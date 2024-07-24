@@ -1,0 +1,12 @@
+{
+  "name": "job-search-app",
+  "version": "1.0.0",
+  "description": "Job search aggregator",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "dependencies": {
+    "electron": "^31.2.1"
+  }
+}
